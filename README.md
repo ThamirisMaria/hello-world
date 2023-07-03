@@ -22,15 +22,15 @@ Com este exercício consegui testar minhas habilidades de:
 
 <br>
 
-> **Note**
-> ## Desafios superados e o que aprendi:
-> ### :cold_sweat: Desafio:
-> Intimidação ao usar o terminal e consequentemente, necessidade de recorrer à GUI's como o GitKraken para o Git.
-> ### :punch: O que fiz para superá-lo:
-> - Comecei a aprender frameworks de desenvolvimento (Angular e Nestjs) que possuem suas próprias CLI's (Command Line Interfaces), às quais tornam o trabalho de criar estruturas padronizadas de um projeto muito mais fácil e rápido em comparação à criá-las manualmente. O que me fez enxergar o terminal como algo facilitador e não intimidador.
-> - Pesquisei e li bastante sobre terminais e como eles funcionam, passei a utilizá-los diariamente para tarefas simples, me familiarizando com os comandos mais comuns.
-> - Durante a aula de Setup de Ferramentas do curso de Desenvolvimento de Software com Foco em Back-end da Cubos Academy, fui <em>reapresentada</em> ao Git, agora de forma menos intimidadora e já estando mais familiarizada a realizar tarefas no terminal. Aprendi sobre os principais comandos utilizados e também alguns atalhos de tecla que deixam a sua utilização mais prática. Começarei a utilizar o git dessa forma em meus projetos a partir de agora.
-> ### :nerd_face: Aprendizados:
-> 
-> Aprendi que ao tentar fazer algo de um jeito novo ou testar uma ferramenta diferente, posso adquirir habilidades importantes, aumentar minha confiança em relação à minha capacidade técnica e descobrir que o que parecia ser complicado no conceito, na prática, pode ser bem simples.
+
+## :pushpin: Desafios superados e o que aprendi:
+### :cold_sweat: Desafio:
+Intimidação ao usar o terminal e consequentemente, necessidade de recorrer à GUI's como o GitKraken para o Git.
+### :punch: O que fiz para superá-lo:
+- Comecei a aprender frameworks de desenvolvimento (Angular e Nestjs) que possuem suas próprias CLI's (Command Line Interfaces), às quais tornam o trabalho de criar estruturas padronizadas de um projeto muito mais fácil e rápido em comparação à criá-las manualmente. O que me fez enxergar o terminal como algo facilitador e não intimidador.
+- Pesquisei e li bastante sobre terminais e como eles funcionam, passei a utilizá-los diariamente para tarefas simples, me familiarizando com os comandos mais comuns.
+- Durante a aula de Setup de Ferramentas do curso de Desenvolvimento de Software com Foco em Back-end da Cubos Academy, fui <em>reapresentada</em> ao Git, agora de forma menos intimidadora e já estando mais familiarizada a realizar tarefas no terminal. Aprendi sobre os principais comandos utilizados e também alguns atalhos de tecla que deixam a sua utilização mais prática. Começarei a utilizar o git dessa forma em meus projetos a partir de agora.
+### :nerd_face: Aprendizados:
+
+Aprendi que ao tentar fazer algo de um jeito novo ou testar uma ferramenta diferente, posso adquirir habilidades importantes, aumentar minha confiança em relação à minha capacidade técnica e descobrir que o que parecia ser complicado no conceito, na prática, pode ser bem simples.
 
